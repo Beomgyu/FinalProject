@@ -12,6 +12,7 @@ import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.Toast;
 
+/* Main class*/
 public class MainActivity extends AppCompatActivity {
 
     @Override
